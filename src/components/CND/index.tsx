@@ -88,14 +88,6 @@ const CN: React.FC = () => {
     }
   };
 
-  const handleWhatsAppClick = () => {
-    window.open(
-      "https://wa.me/5585998482733?text=Olá,%20entrei%20em%20contato%20pelo%20site%20e%20gostaria%20de%20agendar%20minha%20consulta.",
-      "_blank",
-      "noopener,noreferrer"
-    );
-  };
-
   return (
     <main className={styles.container}>
       <div className={styles.content}>

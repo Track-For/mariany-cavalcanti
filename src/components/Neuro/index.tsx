@@ -19,8 +19,8 @@ const Neuro: React.FC = () => {
         </div>
         <div className={styles.title}>
           <h1>
-            Carlos Alberto Rocha Damasceno <br />
-            CRM 13020 e RQE 9916
+            Dr. Carlos Alberto Rocha Damasceno <br />
+            <span>CRM 13020 e RQE 9916</span>
           </h1>
         </div>
         <div className={styles.text}>

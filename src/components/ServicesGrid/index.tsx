@@ -6,36 +6,36 @@ const services = [
     icon: "/icons/users-thin.svg",
     text: "Terapia Cognitivo Comportamental (TCC)",
     description:
-      "Iniciar o processo de terapia é um passo importante para atravessar dificuldades emocionais, melhorar relacionamentos e construir uma vida valiosa",
+      "Iniciar o processo de terapia é um passo importante para atravessar dificuldades emocionais, melhorar relacionamentos e construir uma vida valiosa.",
     link: "/terapia-cognitivo-comportamental",
   },
   {
     icon: "/icons/brain-thin.svg",
     text: "Avaliação Neuropsicológica",
-    description: "Só é possível tratar aquilo que eu sei o que é",
+    description: "Só é possível tratar aquilo que eu sei o que é.",
     link: "/avaliacao-neuropsicologica",
   },
   {
     icon: "/icons/mindset.png",
     text: "Supervisão Clínica em Neuropsicologia",
-    description: "Raciocínio clínico: é diferente pensar juntos",
+    description: "Raciocínio clínico: é diferente pensar juntos.",
     link: "/supervisao-clinica",
   },
   {
     icon: "/icons/book.png",
     text: "Grupo de Estudos Sou Neuropsi",
-    description: "Em construção",
+    description: "Em construção.",
     link: "/grupo-de-estudos",
   },
   {
     icon: "/icons/thinking.png",
     text: "Curso Neuropsi Descomplicada",
-    description: "Sem travas no raciocínio clínico",
+    description: "Sem travas no raciocínio clínico.",
     link: "/curso-neuropsi-descomplicada",
   },
   {
     icon: "/icons/doctor.png",
-    text: "Quero a opinião de um Neurologista",
+    text: "Quero a opinião de um Neurologista.",
     link: "/neuro",
   },
 ];

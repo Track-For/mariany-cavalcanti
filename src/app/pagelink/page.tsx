@@ -40,7 +40,7 @@ export default function PageLink() {
           className={styles.profilePic}
         />
         <h1>Maryane Mendes Cavalcanti Damasceno</h1>
-        <p>Neuropscicologia e Terapia Cognitivo Comportamental</p>
+        <p>CRP 11/10624 </p>
       </div>
       <div className={styles.links}>
         {services.map((service, index) => (
